@@ -7,14 +7,27 @@ C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debu
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\CURD API Application.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\ref\CURD API Application.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\CURD API Application.pdb
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Web.Http.WebHost.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Nancy.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\SQLitePCLRaw.core.dll
@@ -22,6 +35,10 @@ C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debu
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.Core.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.Examples.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\WebActivatorEx.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -51,13 +68,18 @@ C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Debu
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Debug\net5.0\ref\CURD API Application.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Debug\net5.0\CURD API Application.pdb
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Debug\net5.0\CURD API Application.genruntimeconfig.cache
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Net.Http.Formatting.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Web.Http.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Web.Http.WebHost.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.Core.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.Examples.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\WebActivatorEx.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Text.Json.dll

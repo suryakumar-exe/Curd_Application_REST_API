@@ -2,6 +2,8 @@
 using CURD_API_Application.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Nancy.Json;
+using Newtonsoft.Json;
 using Swashbuckle.Swagger.Annotations;
 using System;
 using System.Collections.Generic;
@@ -42,7 +44,7 @@ namespace CURD_API_Application.Controllers
 
         }
         [HttpPut]
-        [Route("UpdateBook")]
+        [Route("UpdateBook/{id}")]
         public async Task<ActionResult> putBooks(int id,[FromBody] Book book) //update book
         {
             if(id != book.Id)
@@ -64,6 +66,51 @@ namespace CURD_API_Application.Controllers
             }
             await _bookRepository.Delete(booktoDelete.Id);
             return NoContent();
+        }
+        [HttpGet]
+        [Route("Dictinary")]
+        public string Dict() //Get All Books
+        {
+            /* Dictionary<int, String> d = new Dictionary<int, string>();
+             d.Add(1, "Surya");
+             d.Add(2, "Surya1");
+             d.Add(3, "Surya2");
+             d.Add(4, "Surya3");
+             var json = JsonConvert.SerializeObject(d);
+             return json;*//* Dictionary<int, String> d = new Dictionary<int, string>();
+             d.Add(1, "Surya");
+             d.Add(2, "Surya1");
+             d.Add(3, "Surya2");
+             d.Add(4, "Surya3");
+             var json = JsonConvert.SerializeObject(d);
+             return json;*/
+            Dictionary<int, Book> d = new Dictionary<int, Book>();
+            Book b = new Book();
+            b.Id = 1;
+            b.Title = "Newbook";
+            b.Author = "surya";
+            b.Description = "Good";
+            Book b1 = new Book();
+            b1.Id = 2;
+            b1.Title = "Newbook11";
+            b1.Author = "surya1";
+            b1.Description = "Good1";
+            d.Add(b.Id, b);
+            d.Add(b1.Id, b1);
+            string json = JsonConvert.SerializeObject(d);
+            
+            return json;
+            /*List<Book> bo = new List<Book>();
+            Book b = new Book();
+            b.Id = 1;
+            b.Title = "Newbook";
+            b.Author = "surya";
+            b.Description = "Good";
+            bo.Add(b);
+            var json = JsonConvert.SerializeObject(bo);
+            return json;*/
+
+
         }
 
     }

@@ -14,6 +14,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using CURD_API_Application.Repositories;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Graph;
 
 namespace CURD_API_Application
 {
@@ -30,7 +32,14 @@ namespace CURD_API_Application
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IBookRepository, BookRepository>();
-            services.AddDbContext<BookContext>(o => o.UseSqlite("Data source=book.db")); 
+
+
+
+            services.AddDbContext<BookContext>(o => o.UseSqlite("Data source=book.db"));
+
+            services.AddCors(); // Make sure you call this previous to AddMvc
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -49,6 +58,12 @@ namespace CURD_API_Application
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CURD_API_Application v1"));
             }
+            app.UseCors("AllowAll");
+            app.UseCors(builder => builder
+      .AllowAnyOrigin()
+      .AllowAnyMethod()
+      .AllowAnyHeader());
+
 
             app.UseHttpsRedirection();
 
