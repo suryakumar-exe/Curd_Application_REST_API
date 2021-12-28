@@ -66,7 +66,8 @@ namespace CURD_API_Application
 
 
             app.UseHttpsRedirection();
-
+            app.UseStaticFiles();
+            app.UseDefaultFiles();
             app.UseRouting();
 
             app.UseAuthorization();
