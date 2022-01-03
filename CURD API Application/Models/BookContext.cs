@@ -13,7 +13,7 @@ namespace CURD_API_Application.Models
         {
             Database.EnsureCreated();
         }
-        public DbSet<Book> Books { get; set; }
+        public DbSet<Book> Books { get; set; } //del;
       
     }
 }

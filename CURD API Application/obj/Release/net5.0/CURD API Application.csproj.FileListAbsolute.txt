@@ -46,7 +46,6 @@ C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Rele
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\Swashbuckle.Core.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\Swashbuckle.Examples.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\System.Memory.Data.dll

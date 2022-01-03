@@ -1264,19 +1264,6 @@
           "lib/net40/Swashbuckle.Core.dll": {}
         }
       },
-      "Swashbuckle.Examples/3.12.0": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "7.0.1",
-          "Swashbuckle.Core": "5.6.0"
-        },
-        "compile": {
-          "lib/net40/Swashbuckle.Examples.dll": {}
-        },
-        "runtime": {
-          "lib/net40/Swashbuckle.Examples.dll": {}
-        }
-      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -4158,18 +4145,6 @@
         "lib/net40/Swashbuckle.Core.dll",
         "swashbuckle.core.5.6.0.nupkg.sha512",
         "swashbuckle.core.nuspec"
-      ]
-    },
-    "Swashbuckle.Examples/3.12.0": {
-      "sha512": "6rvwz8Th7tMUtGGNti7OOH8FvRSksXKIaLexMitNfpBKxgpavrGa6nDyomFaYFADGSVLXq22ExX5w6cI46JauA==",
-      "type": "package",
-      "path": "swashbuckle.examples/3.12.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/Swashbuckle.Examples.dll",
-        "swashbuckle.examples.3.12.0.nupkg.sha512",
-        "swashbuckle.examples.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -8070,9 +8045,7 @@
       "Nancy >= 2.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "Swashbuckle >= 5.6.0",
-      "Swashbuckle.AspNetCore >= 5.6.3",
-      "Swashbuckle.Core >= 5.6.0",
-      "Swashbuckle.Examples >= 3.12.0"
+      "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
   "packageFolders": {
@@ -8154,14 +8127,6 @@
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
-          },
-          "Swashbuckle.Core": {
-            "target": "Package",
-            "version": "[5.6.0, )"
-          },
-          "Swashbuckle.Examples": {
-            "target": "Package",
-            "version": "[3.12.0, )"
           }
         },
         "imports": [
@@ -8243,16 +8208,6 @@
       "warningLevel": 1,
       "message": "Package 'Swashbuckle.Core 5.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
       "libraryId": "Swashbuckle.Core",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Swashbuckle.Examples 3.12.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Swashbuckle.Examples",
       "targetGraphs": [
         "net5.0"
       ]

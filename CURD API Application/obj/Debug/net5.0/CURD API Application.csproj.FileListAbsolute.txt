@@ -36,7 +36,6 @@ C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debu
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.Core.dll
-C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\Swashbuckle.Examples.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\WebActivatorEx.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
