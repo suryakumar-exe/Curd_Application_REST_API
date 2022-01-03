@@ -10,6 +10,11 @@
 		<Exec Command="dotnet ef database update" />
 	</Target>
   <ItemGroup>
+	  <Content Include="filename">
+     <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+     <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+   </Content>
+	   <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.12" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Cors" Version="2.2.0" />
