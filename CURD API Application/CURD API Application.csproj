@@ -7,7 +7,6 @@
 	  
   </PropertyGroup>
 	<Target Name="PrePublishTarget" AfterTargets="Publish">
-		<Exec Command="dotnet ef database update" />
 	</Target>
   <ItemGroup>
 	  <Content Include="filename">
